@@ -1,0 +1,17 @@
+body {
+background-color: salmon;
+}
+
+h1{
+	text-align: center;
+	font-family: Impact, sans-serif;
+	font-size: 40px;
+	color: lightblue;
+
+}
+p, li{
+font-family: Helvetica, sans-serif;
+font-size: 18px;
+line-height: 18px;
+color: lightyellow;
+}
